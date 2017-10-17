@@ -1,7 +1,7 @@
 # DataScienceUbTest
-This is a test
-<<<<<<< HEAD
 =======
+This is a test
+======
 Hansel's test !! \n
 ¡¡¡ adding more Hansel !!!
 XaviGa: Provando, provando...
