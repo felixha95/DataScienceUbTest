@@ -1,10 +1,8 @@
 # DataScienceUbTest
 This is a test
 <<<<<<< HEAD
-
 =======
-Hansel's test !!
-
-XaviGa: Rovando, provando...
-
->>>>>>> cb451390c91948428a0b64f5765ad00e5e0118e2
+Hansel's test !! \n
+¡¡¡ adding more Hansel !!!
+XaviGa: PRovando...
+>>>>>>> 30ca3583f215d51fe7698c308ea1d144c91cdebf
