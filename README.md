@@ -1,10 +1,9 @@
 # DataScienceUbTest
-=======
-This is a test
-======
-Hansel's test !! \n
-¡¡¡ adding more Hansel !!!
-XaviGa: Provando, provando...
-XaviGa: Uno, dos, provando...
-!!!! adding Hansel 2
+
+==================
+| This is a test |
+==================
+Primer proyecto de GitHub.
+
+Aqui se va a ir incluyendo el codigo generado por mi durante el Post Grado de Data Science y Big Data de la UB.
 
